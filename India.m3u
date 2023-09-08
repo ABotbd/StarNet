@@ -1,6 +1,7 @@
 #EXTM3U
 #Created by @freeiptv25
 #EXTINF:-1 tvg-id="freeiptv25" tvg-name="FreeIptv25" tvg-logo="" group-title="FreeIptv25",Join Telegram Freeiptv25
+https://t.me/freeiptv25
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="IND: Zoom India" tvg-logo="" group-title="Indian Tv",IND: Zoom India
 http://rainbow4.ddns.net:9866/babar@4u/45fgvbh/2121
 #EXTINF:-1 tvg-id="1Sports.in" tvg-name="IND: ZEE Zing India" tvg-logo="http://cms234.pandaiptv.net/logo/zee_zing_asia.png" group-title="Indian Tv",IND: ZEE Zing India
